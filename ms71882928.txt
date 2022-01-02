@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "onearia.github.io",
+  "Id": "ae6b51f1-d7bc-4072-b39b-f1b2ac5ba938"
+}
